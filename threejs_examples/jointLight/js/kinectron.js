@@ -3,7 +3,7 @@ let line, line1, line2, line3;
 
 function initKinectron() {
  	// Define and create an instance of kinectron
-  const kinectronIpAddress = ""; // FILL IN YOUR KINECTRON IP ADDRESS HERE
+  const kinectronIpAddress = "172.16.222.192"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
   kinectron = new Kinectron(kinectronIpAddress);
 
   // Connect to the microstudio

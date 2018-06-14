@@ -23,7 +23,7 @@ window.addEventListener('load', function() {
   initPointCloud();
 
   // Define and create an instance of kinectron
-  var kinectronIpAddress = "172.16.223.38"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
+  var kinectronIpAddress = "172.16.222.192"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
   kinectron = new Kinectron(kinectronIpAddress);
 
   // Connect to the microstudio

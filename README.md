@@ -43,13 +43,14 @@ python -m SimpleHTTPServer
 
 ## Resources
 
-* [Kinectron documentation](https://kinectron.github.io/).
+* [Kinectron documentation](https://kinectron.github.io/)
+* [Kinectron Coding Train Tutorial](https://www.youtube.com/watch?v=BV6xK3EOznI)
 * [Kinectron examples in p5 alpha editor](https://github.com/kinectron/kinectron/wiki/Kinectron-Examples-in-P5-Alpha-Editor)
 * [Intro to Kinect and Kinectron by Dan O'Sullivan](https://itp.nyu.edu/classes/dance-f16/kinect/)
 * [Explanation of Kinect Joints](https://github.com/kinectron/kinectron/issues/12)
 * [More about Webp image format](https://developers.google.com/speed/webp/)
 * [RGBA Color Space on Wikipedia](https://en.wikipedia.org/wiki/RGBA_color_space)
-
+  
 
 ## Thanks
 
