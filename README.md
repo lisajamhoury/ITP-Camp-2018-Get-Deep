@@ -6,6 +6,15 @@ This repository is for the ITP Camp 2018 Session on Kinectron and Three.js.
 
 You're so three dimensional in real life, why do you settle for just two dimensions in your internet life? In this session, we'll explore using real-time, three-dimensional (volumetric) images and skeletons in Three.js. We'll use Kinectron, an open-source tool to bring Kinect 2 data into the web and across networks to explore real-time 3D interactivity in the browser and across the world.
 
+## Goals
+
+The goal of this session is to give all participants an overview of what is possible with 3D interactive physical data in the browser. Although we will be using data from the Kinect 2, the methods will crossover to other methods of accessing skeletal and volumetric data. So, we're going to: 
+
+* Learn what the data coming in looks like
+* Learn how to access it
+* Learn different ways for processing it
+* Get examples to play with on your own! Woot
+ 
 ## Agenda 
 
 * What is Kinectron 
