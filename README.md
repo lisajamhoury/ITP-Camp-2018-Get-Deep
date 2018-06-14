@@ -35,8 +35,10 @@ git clone https://github.com/lisajamhoury/ITP-Camp-2018-Get-Deep.git
 
 2. Run a local server 
 
+```
 cd /ITP-Camp-2018-Get-Deep
 python -m SimpleHTTPServer
+```
 
 3. Open the entire training folder in a text editor
 
