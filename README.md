@@ -23,9 +23,7 @@ Make sure you have a text editor (like Sublime or Atom) and know how to access y
 
 2. Download or clone this repo
 
-Download this repository
-
-Open your terminal and enter the following commands
+To clone the repo, open your terminal and enter the following commands
 
 ```
 cd /Users/yourname/Desktop // this will put the downloaded folder on your desktop
